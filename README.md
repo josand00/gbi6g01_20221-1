@@ -14,3 +14,4 @@ Tipo de sistema	Sistema operativo de 64 bits
 -Gitbash v2_36.0
 -Gitbash 3.0.0
 Repositorio del curso de bioinformática semestre 20221
+- Github  Desktop
