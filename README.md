@@ -15,3 +15,4 @@ Tipo de sistema	Sistema operativo de 64 bits
 -Gitbash 3.0.0
 Repositorio del curso de bioinformática semestre 20221
 - Github  Desktop
+- Google Colaboratory
