@@ -13,6 +13,9 @@
 ## Programas Utilizados
 - Gitbash v2_36.0
 - Gitbash 3.0.0
+- Jupyter notebook
+- Anaconda python
+
 Repositorio del curso de bioinformática semestre 20221
 - Github  Desktop
 - Google Colaboratory
