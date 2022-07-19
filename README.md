@@ -1,17 +1,21 @@
 # gbi6g01_20221
 ## Datos Personales
--Camacho, Angiely
--20
--Machala
--Biotecnología
+- Camacho, Angiely
+- 20
+- Machala
+- Biotecnología
 
 ## Caracteristicas del Equipo
-Procesador	Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz   2.30 GHz
-RAM instalada	4,00 GB
-Tipo de sistema	Sistema operativo de 64 bits
+- Procesador	Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz   2.30 GHz
+- RAM instalada	4,00 GB
+- Tipo de sistema	Sistema operativo de 64 bits
 
 ## Programas Utilizados
--Gitbash v2_36.0
--Gitbash 3.0.0
+- Gitbash v2_36.0
+- Gitbash 3.0.0
+- Jupyter notebook
+- Anaconda python
+
 Repositorio del curso de bioinformática semestre 20221
 - Github  Desktop
+- Google Colaboratory
